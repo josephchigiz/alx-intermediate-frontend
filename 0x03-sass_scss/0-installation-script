@@ -1,0 +1,11 @@
+# Installing SASS
+
+## Install Node
+```
+$ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/<version>/install.sh | bash
+```
+
+## Install SASS
+```
+$ npm install SASS
+```
