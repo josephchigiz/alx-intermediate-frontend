@@ -1,0 +1,12 @@
+$no_margin: 0px;
+$no_padding: 0px;
+$p_margin: 10px;
+
+body {
+  padding: $no_padding;
+  margin: $no_margin;
+
+  p {
+    margin: $p_margin;
+  }
+}
